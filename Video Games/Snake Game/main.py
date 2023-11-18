@@ -1,3 +1,8 @@
+#Rafi Hossain
+#2023-11-16
+#Snake Game
+
+
 import pygame
 import time
 import random
